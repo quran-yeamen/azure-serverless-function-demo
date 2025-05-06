@@ -3,7 +3,9 @@
 ```markdown
 # Azure Serverless Function App – `cloud_pract2`
 
-This project demonstrates a basic **Azure Function App** written in **C#** using **.NET Core**, designed to respond to HTTP-triggered events. It serves as a foundational example of how to create, configure, and deploy serverless applications using Microsoft Azure's cloud platform.
+This project demonstrates a basic **Azure Function App** written in **C#** using **.NET Core**,
+designed to respond to HTTP-triggered events. It serves as a foundational example of how to create, configure,
+and deploy serverless applications using Microsoft Azure's cloud platform.
 
 ---
 
@@ -108,5 +110,3 @@ For questions, feel free to connect:
 [LinkedIn](https://www.linkedin.com/in/quran-yeamen/) | [GitHub](https://github.com/quran-yeamen)
 
 ---
-
-```
