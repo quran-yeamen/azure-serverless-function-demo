@@ -1,6 +1,4 @@
-Perfect—here’s a **comprehensive `README.md`** tailored for your `cloud_pract2` Azure Functions project. This version is recruiter-friendly, clear for tech leads, and highlights your skills effectively.
 
----
 
 ```markdown
 # Azure Serverless Function App – `cloud_pract2`
