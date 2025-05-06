@@ -18,7 +18,7 @@ This project demonstrates a basic **Azure Function App** written in **C#** using
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** C#  
 - **Framework:** .NET Core  
@@ -111,10 +111,4 @@ For questions, feel free to connect:
 
 ---
 
-```
-
----
-
-### ✅ Next Step
-Would you like me to generate README.md files for any other repos (e.g., `solyte`, `ServerLifecycleML`, or `IBM_Data_Capstone`) as well?
 ```
